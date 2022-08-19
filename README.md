@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/91545371/185667433-f3afed20-93e0-4627-baf1-8087394cd492.png)
-
+![image](https://user-images.githubusercontent.com/91545371/185667770-968d9aa1-62ca-4834-9767-0fb626311502.png)
 <h1 align="center">Hi 👋, I'm Samik Pandit</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditsamik&label=Profile%20views&color=0e75b6&style=flat" alt="panditsamik" /> </p>
