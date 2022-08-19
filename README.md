@@ -1,5 +1,7 @@
+![image](https://user-images.githubusercontent.com/91545371/185667433-f3afed20-93e0-4627-baf1-8087394cd492.png)
+
 <h1 align="center">Hi 👋, I'm Samik Pandit</h1>
-![image](https://user-images.githubusercontent.com/91545371/185667005-506ae0a1-67b2-458d-9e69-f7a228e2ce95.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditsamik&label=Profile%20views&color=0e75b6&style=flat" alt="panditsamik" /> </p>
 
 <h3 align="left">Connect with me:</h3>
