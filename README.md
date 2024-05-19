@@ -1,6 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Samik Pandit</h1>
-
+<p><em>Software Engineering Undergrad at <a href="http://www.nsec.ac.in">Netaji Subhash Engineering College.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditsamik&label=Profile%20views&color=0e75b6&style=flat" alt="panditsamik" /> </p>
+
 # 💫 About Me:
 <img align="right" alt="Coding" height="200" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
