@@ -1,6 +1,19 @@
-# 💫 About Me:
-🌱 I’m currently learning **Spring Boot**<br>👨‍💻 All of my open-source projects are available at [panditsamik/projects](https://github.com/panditsamik?tab=repositories)<br>💬 Ask me about **Programming 😉**<br>📫 You can reach me here **panditsamik25@gmail.com**<br>⚡ Fun fact **I think I am a movie buff.** 
+<h1 align="center">Hey Everyone 👋, I'm Samik Pandit</h1>
 
+
+# 💫 About Me:
+<img align="right" alt="Coding" height="200" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🌱 I’m currently learning **Spring Boot**<br>
+
+👨‍💻 All of my open-source projects are available at [panditsamik/projects](https://github.com/panditsamik?tab=repositories)<br>
+
+💬 Ask me about **Programming 😉**<br>
+
+📫 You can reach me here **panditsamik25@gmail.com**<br>
+
+⚡ Fun fact **I think I am a movie buff.**
+<br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thealchemistoliver_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panditsamik) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19420986) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pandit_samik) 
